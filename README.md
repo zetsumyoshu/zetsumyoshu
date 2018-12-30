@@ -1,0 +1,2 @@
+# zetsumyoshu
+The published blog
